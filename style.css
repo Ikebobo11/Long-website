@@ -182,13 +182,14 @@ h4{
 }
 footer{
     background-color: rgb(16, 16, 38);
-    padding: 6rem;
+    padding-block: 6rem;
+    padding-inline: 1rem;
     color: white;
 }
 .footer-div{
     max-width: 26rem;
     margin-inline: auto;
-    padding: 1rem;
+    padding-block: 1rem;
 }
 .footer-head{
     font-size: 35px;
