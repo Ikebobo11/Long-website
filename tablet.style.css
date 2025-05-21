@@ -1,0 +1,34 @@
+   @media (max-width:768px) {
+    h4{
+        color: brown;
+        background-color: black;
+    }
+    body{
+    }
+    .flex-container-a{
+        grid-template-columns: 1fr;
+        max-width: 680px;
+        margin: auto;
+    }
+    .flex-item-a{
+        margin-inline:left;
+        flex-grow: 1;
+        max-width: 760px;
+    }
+    .flex-div{
+      grid-template-columns: 1fr 1fr; 
+    }
+    .first-section-b{
+        
+    }  
+    .flex-image-a{
+        width: 60rem;
+    }  
+    .first-section{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+/* .first-big-div{
+    margin-inline: auto; */
+}
+}

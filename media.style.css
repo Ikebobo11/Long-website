@@ -1,0 +1,14 @@
+/* @media (max-width:480px) {
+    h4{
+        color: green;
+        background-color: blue;
+    }
+    .flex-container-a{
+        grid-template-columns: 1fr;
+    }
+    .flex-div{
+        grid-template-columns: 1fr;
+    }
+    .flex-image-a{
+        width: 25rem;
+} */
